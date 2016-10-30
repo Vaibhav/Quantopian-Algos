@@ -8,8 +8,7 @@ Below are results from an algo which shorts and covers UVXY to make profits base
 VIX does the opposite of what SPY does. If SPY rises, VIX drops. If SPY drops, VIX rises. This means under any disasters or political complications, VIX tends to rise. 
 But on a day-to-day basis, VIX declines. This means UVXY declines, and shorting UVXY is ideal. 
 
-![v3](UVXY Algo.PNG)
-
+![v3](UVXY Algo.png)
 
 
 ## Trend Follow Algo
